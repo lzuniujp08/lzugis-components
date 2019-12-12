@@ -1,1 +1,2 @@
-# lzugis-components
+# lzugis Vue组件库
+
